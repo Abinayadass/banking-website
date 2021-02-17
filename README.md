@@ -1,2 +1,2 @@
 # banking-website
-aabanz,zohosites,in
+aabanz.zohosites.in
